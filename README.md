@@ -94,7 +94,7 @@ a. Set Target Altitude through toggling through  logic toggles.
 
 b. See real time altitude tuning. 
 
-2. Weapons Lock 
+#### 2. Weapons Lock 
 
 a. Set Enemy Position. 
 
