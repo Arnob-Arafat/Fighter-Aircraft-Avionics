@@ -90,9 +90,9 @@ Karnaugh Map used to solve equations to find squares of binary numbers.
 
 #### 1. Autopilot 
 
-   - a. Set Target Altitude through toggling through  logic toggles. 
+    a. Set Target Altitude through toggling through  logic toggles. 
 
-   - b. See real time altitude tuning. 
+    b. See real time altitude tuning. 
 
 2. Weapons Lock 
 
