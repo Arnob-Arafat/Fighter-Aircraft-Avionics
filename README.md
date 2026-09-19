@@ -90,26 +90,26 @@ Karnaugh Map used to solve equations to find squares of binary numbers.
 
 #### 1. Autopilot 
 
-    a. Set Target Altitude through toggling through  logic toggles. 
+a. Set Target Altitude through toggling through  logic toggles. 
 
-    b. See real time altitude tuning. 
+b. See real time altitude tuning. 
 
 2. Weapons Lock 
 
-   - a. Set Enemy Position. 
+a. Set Enemy Position. 
 
-   - b. If Range >= Distance between enemy aircraft and user then LED Green will turn on or else LED Red. 
+b. If Range >= Distance between enemy aircraft and user then LED Green will turn on or else LED Red. 
 
 #### 3. Weapons Engage 
 
-- a. Choose between Missiles(0) or Bullets(1) to use 
+a. Choose between Missiles(0) or Bullets(1) to use 
 
-- b. Use the Fire button to shoot. 
+b. Use the Fire button to shoot. 
 
-- c. Watch Bullet/Missile Count go down. 
+c. Watch Bullet/Missile Count go down. 
 
 #### 4. Defense 
 
-- a. Start Projectile simulation by toggling 0 to 1. 
+a. Start Projectile simulation by toggling 0 to 1. 
 
 b. Fire Flares whenever Radar Lights Up. 
