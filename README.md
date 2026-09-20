@@ -8,7 +8,7 @@ There are four distinct modules of this project as shown in the project diagram.
 
 1. **Autopilot :** Target Y Coordinates are inputted(in a register)  and the simulated “aircraft” adjusts its current altitude(in a up/down counter)  with respect to the target.  Say, Yt = Target Altitude and Yc = Current Altitude 
 
-When Yt  > Yc , Yc ++ → upcount per clock edge When Yt  < Yc , Yc - - → downcount per clock edge When Yt  < Yc , hold → no change 
+When Yt  > Yc , Yc ++ → upcount per clock edge When Yt  < Yc , Yc - - → downcount per clock edge When Yt  = Yc , hold → no change 
 
 Current X coordinates of the aircraft are increasing per clock edge (every 100 seconds). 
 
